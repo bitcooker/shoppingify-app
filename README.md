@@ -1,3 +1,7 @@
+# Shoppingify App
+
+![Capture](https://user-images.githubusercontent.com/128102810/228967229-471f709a-a713-4c41-b3f3-dcfb29f7a115.PNG)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
